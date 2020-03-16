@@ -47,7 +47,7 @@
 
 13. 添加图片ctrl+shift+I
 
-    ![what?](C:\Users\风影\Pictures\Camera Roll\泰拉瑞亚\Snipaste_2020-03-13_17-44-52.png)
+    ![what?](https://github.com/fengyingzhicheng/markdown_image/raw/master/cesium%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB.png)
 
 14. 添加公式块快捷键ctrl+shift+M
     $$
